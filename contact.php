@@ -36,7 +36,7 @@ include 'nav.php';
           <div class="form-row">
 		    <div class="form-group col-md-6 mx-auto">
 		      <label for="Message">Message</label>
-		      <textarea class="form-control px-4 py-2" name="message" placeholder="Message"></textarea> 
+		      <textarea class="form-control pl-4 py-2" name="message" placeholder="Message"></textarea> 
             </div>
           </div>
 
