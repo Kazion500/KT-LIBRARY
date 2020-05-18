@@ -1,0 +1,94 @@
+
+
+/*fonts i use*/
+/*All from google fonts*/
+
+
+@font-face {
+    src : url("../fontawesome/fonts/AlegreyaSansSC-Light.ttf");
+    font-family: 'Alegrey';
+}
+@font-face {
+    src : url("../fontawesome/fonts/Akronim-Regular.ttf");
+    font-family: 'Akronim';
+}
+@font-face {
+    src : url("../fontawesome/fonts/AllertaStencil-Regular.ttf");
+    font-family: 'Allerta';
+}
+@font-face {
+    src : url("../fontawesome/fonts/AmaticSC-Regular.ttf");
+    font-family: 'AmaticSC';
+}
+@font-face {
+    src : url("../fontawesome/fonts/Athiti-Light.ttf");
+    font-family: 'Athiti';
+}
+@font-face {
+    src : url("../fontawesome/fonts/BlackAndWhitePicture-Regular.ttf");
+    font-family: 'BlackAndWhite';
+}
+@font-face {
+    src : url("../fontawesome/fonts/BungeeOutline-Regular.ttf");
+    font-family: 'BungeeOutline';
+}
+@font-face {
+    src : url("../fontawesome/fonts/BungeeShade-Regular.ttf");
+    font-family: 'BungeeShade';
+}
+@font-face {
+    src : url("../fontawesome/fonts/Butcherman-Regular.ttf");
+    font-family: 'Butcherman';
+}
+@font-face {
+    src : url("../fontawesome/fonts/ComicNeue-Regular.ttf");
+    font-family: 'Comic';
+}
+@font-face {
+    src : url("../fontawesome/fonts/Galdeano-Regular.ttf");
+    font-family: 'Galdeano';
+}
+@font-face {
+    src : url("../fontawesome/fonts/Girassol-Regular.ttf");
+    font-family: 'Girassol';
+}
+@font-face {
+    src : url("../fontawesome/fonts/Graduate-Regular.ttf");
+    font-family: 'Graduate';
+}
+@font-face {
+    src : url("../fontawesome/fonts/IMFellDoublePicaSC-Regular.ttf");
+    font-family: 'IMFD';
+}
+@font-face {
+    src : url("../fontawesome/fonts/IMFellGreatPrimerSC-Regular.ttf");
+    font-family: 'IMFP';
+}
+@font-face {
+    src : url("../fontawesome/fonts/JollyLodger-Regular.ttf");
+    font-family: 'JollyLodger';
+}
+@font-face {
+    src : url("../fontawesome/fonts/KaushanScript-Regular.ttf");
+    font-family: 'KaushanScript';
+}
+@font-face {
+    src : url("../fontawesome/fonts/LondrinaShadow-Regular.ttf");
+    font-family: 'LondrinaShadow';
+}
+@font-face {
+    src : url("../fontawesome/fonts/MetalMania-Regular.ttf");
+    font-family: 'MetalMania';
+}
+@font-face {
+    src : url("../fontawesome/fonts/OpenSans-Regular.ttf");
+    font-family: 'OpenSans';
+}
+@font-face {
+    src : url("../fontawesome/fonts/Roboto-Light.ttf");
+    font-family: 'Roboto';
+}
+@font-face {
+    src : url("../fontawesome/fonts/RubikMonoOne-Regular.ttf");
+    font-family: 'RubikMonoOne';
+}

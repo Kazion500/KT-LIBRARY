@@ -11,14 +11,14 @@ session_start();
     <title>KT LIBRARY</title>
 
     <!------FONTS------>
-    <link rel="stylesheet" href="font/fonts.css">
+    <link rel="stylesheet" href="css/fonts.css">
 
     <!---BOOTSTRAP CDN-->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     
     <!---FORNTAWESOME-->
-    <link rel="stylesheet" href="fontawesome 5.13.0/css/fontawesome.css">
-    <link rel="stylesheet" href="fontawesome 5.13.0/css/all.css">
+    <link rel="stylesheet" href="fontawesome/css/fontawesome.css">
+    <link rel="stylesheet" href="fontawesome/css/all.css">
 
     <!---SYTLESHEET-->
     <link rel="stylesheet" href="css/style.css">

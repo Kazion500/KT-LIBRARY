@@ -1,7 +1,9 @@
+@import url("./fonts.css");
+
 * {
     list-style-type: none !important;
     text-decoration: none;
-    font-family: 'Inconsolata';
+    font-family: 'Galdeano';
 }
 body {
   background-color:#f3f3f3;
