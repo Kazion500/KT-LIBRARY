@@ -14,7 +14,7 @@ session_start();
     <link rel="stylesheet" href="font/fonts.css">
 
     <!---BOOTSTRAP CDN-->
-    <link rel="stylesheet" href="bootstrap/bootstrap-4.4.1-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     
     <!---FORNTAWESOME-->
     <link rel="stylesheet" href="fontawesome 5.13.0/css/fontawesome.css">

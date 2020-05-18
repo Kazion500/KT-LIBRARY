@@ -1,6 +1,7 @@
 * {
     list-style-type: none !important;
     text-decoration: none;
+    font-family: 'Inconsolata';
 }
 body {
   background-color:#f3f3f3;
